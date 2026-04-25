@@ -1,0 +1,8 @@
+{
+  "death": "§cSei morto",
+  "lives": "§cVite: §f%lives%",
+  "no_lives": "§cNon hai più vite!",
+
+  "gui_lives_title": "§cVite",
+  "gui_current": "Attuale:"
+}
