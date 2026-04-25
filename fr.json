@@ -2,7 +2,8 @@
   "death": "§cVous êtes mort",
   "lives": "§cVies : §f%lives%",
   "no_lives": "§cVous n'avez plus de vies !",
-
-  "gui_life_title": "§cVies",
+  
+  "gui_life_title": "§cMenu des Vies",
+  "gui_lives_title": "§cVies",
   "gui_current": "Actuel :"
 }
