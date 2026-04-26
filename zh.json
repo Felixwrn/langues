@@ -1,8 +1,24 @@
 {
-  "death": "§c你死了",
+  "death": "§c你已死亡",
   "lives": "§c生命: §f%lives%",
   "no_lives": "§c你没有生命了！",
+
   "gui_life_title": "§c生命菜单",
   "gui_lives_title": "§c生命",
-  "gui_current": "当前:"
+  "gui_current": "当前:",
+
+  "langgui_title": "§6§l语言选择",
+  "langgui_next": "§a下一页 →",
+  "langgui_previous": "§c← 返回",
+  "langgui_selected": "§a✔ 已选择",
+  "langgui_installed": "§e✔ 已安装",
+  "langgui_not_installed": "§c✖ 未安装",
+  "langgui_click_select": "§e点击选择",
+  "langgui_click_download": "§c点击下载",
+
+  "modegui_title": "§6§l模式选择",
+  "mode_hardcore": "§c§l极限模式",
+  "mode_lifesteal": "§a§l生命偷取",
+  "mode_selected": "§a✔ 已启用",
+  "mode_click": "§e点击启用"
 }
