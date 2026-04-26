@@ -1,8 +1,16 @@
 {
-  "death": "§cJe bent gestorven",
-  "lives": "§cLevens: §f%lives%",
-  "no_lives": "§cJe hebt geen levens meer!",
-  "gui_life_title": "§cLevens Menu",
-  "gui_lives_title": "§cLevens",
-  "gui_current": "Huidig:"
+  "langgui_title": "§6§lTaal",
+  "langgui_next": "§aVolgende →",
+  "langgui_previous": "§c← Terug",
+  "langgui_selected": "§a✔ Geselecteerd",
+  "langgui_installed": "§e✔ Geïnstalleerd",
+  "langgui_not_installed": "§c✖ Niet geïnstalleerd",
+  "langgui_click_select": "§eKlik om te selecteren",
+  "langgui_click_download": "§cKlik om te downloaden",
+
+  "modegui_title": "§6§lModus",
+  "mode_hardcore": "§c§lHardcore",
+  "mode_lifesteal": "§a§lLifesteal",
+  "mode_selected": "§a✔ Actief",
+  "mode_click": "§eKlik om te activeren"
 }
