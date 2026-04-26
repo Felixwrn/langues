@@ -2,7 +2,23 @@
   "death": "§cVocê morreu",
   "lives": "§cVidas: §f%lives%",
   "no_lives": "§cVocê não tem mais vidas!",
-  "gui_life_title": "§cMenu de Vidas",
+
+  "gui_life_title": "§cMenu de vidas",
   "gui_lives_title": "§cVidas",
-  "gui_current": "Atual:"
+  "gui_current": "Atual:",
+
+  "langgui_title": "§6§lIdioma",
+  "langgui_next": "§aPróximo →",
+  "langgui_previous": "§c← Voltar",
+  "langgui_selected": "§a✔ Selecionado",
+  "langgui_installed": "§e✔ Instalado",
+  "langgui_not_installed": "§c✖ Não instalado",
+  "langgui_click_select": "§eClique para selecionar",
+  "langgui_click_download": "§cClique para baixar",
+
+  "modegui_title": "§6§lModo",
+  "mode_hardcore": "§c§lHardcore",
+  "mode_lifesteal": "§a§lLifesteal",
+  "mode_selected": "§a✔ Ativo",
+  "mode_click": "§eClique para ativar"
 }
