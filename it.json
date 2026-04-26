@@ -3,7 +3,22 @@
   "lives": "§cVite: §f%lives%",
   "no_lives": "§cNon hai più vite!",
 
-  "gui_life_title": "§cMenu Vite",
+  "gui_life_title": "§cMenu vite",
   "gui_lives_title": "§cVite",
-  "gui_current": "Attuale:"
+  "gui_current": "Attuale:",
+
+  "langgui_title": "§6§lLingua",
+  "langgui_next": "§aAvanti →",
+  "langgui_previous": "§c← Indietro",
+  "langgui_selected": "§a✔ Selezionato",
+  "langgui_installed": "§e✔ Installato",
+  "langgui_not_installed": "§c✖ Non installato",
+  "langgui_click_select": "§eClicca per selezionare",
+  "langgui_click_download": "§cClicca per scaricare",
+
+  "modegui_title": "§6§lModalità",
+  "mode_hardcore": "§c§lHardcore",
+  "mode_lifesteal": "§a§lLifesteal",
+  "mode_selected": "§a✔ Attivo",
+  "mode_click": "§eClicca per attivare"
 }
