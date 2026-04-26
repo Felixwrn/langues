@@ -1,0 +1,8 @@
+{
+  "death": "§cあなたは死にました",
+  "lives": "§cライフ: §f%lives%",
+  "no_lives": "§cもうライフがありません！",
+  "gui_life_title": "§cライフメニュー",
+  "gui_lives_title": "§cライフ",
+  "gui_current": "現在:"
+}
