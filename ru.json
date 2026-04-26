@@ -1,0 +1,8 @@
+{
+  "death": "§cВы умерли",
+  "lives": "§cЖизни: §f%lives%",
+  "no_lives": "§cУ вас больше нет жизней!",
+  "gui_life_title": "§cМеню жизней",
+  "gui_lives_title": "§cЖизни",
+  "gui_current": "Текущие:"
+}
