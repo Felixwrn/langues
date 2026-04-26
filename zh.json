@@ -1,0 +1,8 @@
+{
+  "death": "§c你死了",
+  "lives": "§c生命: §f%lives%",
+  "no_lives": "§c你没有生命了！",
+  "gui_life_title": "§c生命菜单",
+  "gui_lives_title": "§c生命",
+  "gui_current": "当前:"
+}
