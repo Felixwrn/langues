@@ -1,8 +1,24 @@
 {
-  "death": "§cВи померли",
+  "death": "§cВи загинули",
   "lives": "§cЖиття: §f%lives%",
   "no_lives": "§cУ вас більше немає життів!",
+
   "gui_life_title": "§cМеню життів",
   "gui_lives_title": "§cЖиття",
-  "gui_current": "Поточні:"
+  "gui_current": "Поточні:",
+
+  "langgui_title": "§6§lВибір мови",
+  "langgui_next": "§aДалі →",
+  "langgui_previous": "§c← Назад",
+  "langgui_selected": "§a✔ Обрано",
+  "langgui_installed": "§e✔ Встановлено",
+  "langgui_not_installed": "§c✖ Не встановлено",
+  "langgui_click_select": "§eНатисніть, щоб вибрати",
+  "langgui_click_download": "§cНатисніть, щоб завантажити",
+
+  "modegui_title": "§6§lВибір режиму",
+  "mode_hardcore": "§c§lХардкор",
+  "mode_lifesteal": "§a§lЛайфстіл",
+  "mode_selected": "§a✔ Активний",
+  "mode_click": "§eНатисніть для активації"
 }
