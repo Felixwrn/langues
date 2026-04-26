@@ -1,0 +1,8 @@
+{
+  "death": "§cJe bent gestorven",
+  "lives": "§cLevens: §f%lives%",
+  "no_lives": "§cJe hebt geen levens meer!",
+  "gui_life_title": "§cLevens Menu",
+  "gui_lives_title": "§cLevens",
+  "gui_current": "Huidig:"
+}
