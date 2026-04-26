@@ -1,8 +1,24 @@
 {
-  "death": "§cあなたは死にました",
+  "death": "§cあなたは死亡しました",
   "lives": "§cライフ: §f%lives%",
   "no_lives": "§cもうライフがありません！",
+
   "gui_life_title": "§cライフメニュー",
   "gui_lives_title": "§cライフ",
-  "gui_current": "現在:"
+  "gui_current": "現在:",
+
+  "langgui_title": "§6§l言語選択",
+  "langgui_next": "§a次へ →",
+  "langgui_previous": "§c← 戻る",
+  "langgui_selected": "§a✔ 選択中",
+  "langgui_installed": "§e✔ インストール済み",
+  "langgui_not_installed": "§c✖ 未インストール",
+  "langgui_click_select": "§eクリックして選択",
+  "langgui_click_download": "§cクリックしてダウンロード",
+
+  "modegui_title": "§6§lモード選択",
+  "mode_hardcore": "§c§lハードコア",
+  "mode_lifesteal": "§a§lライフスティール",
+  "mode_selected": "§a✔ 有効",
+  "mode_click": "§eクリックして有効化"
 }
